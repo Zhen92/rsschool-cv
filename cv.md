@@ -29,3 +29,7 @@ function grow(x) {
   return x.reduce((previous, next) => previous * next);
 }
 ```
+
+## Work experience
+
+_Nothing yet, work in progress_
