@@ -37,3 +37,9 @@ _Nothing yet, work in progress_
 ## Education
 
 I have been studying at [BRU](http://bru.by/) for 3+ years
+
+## Languages
+
+1. English
+2. Belarusian
+3. Russian
