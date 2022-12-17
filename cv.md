@@ -10,3 +10,11 @@
 ## About me
 
 Hello, i'm Yauheni. I'm 20 years old. I study at Belarusian-Russian University for three years. My goal is to become a good Front-end developer.
+
+## Skills
+
+- HTML ([code-basics](https://code-basics.com/ru/languages/html) course)
+- CSS ([code.mu](https://code.mu/ru/markup/book/prime/) course)
+- JavaScript ([learn.javascript](https://learn.javascript.ru/) course)
+- GIT version control ([Ilya Kantor's screencast](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb))
+- C# basics (at university)
