@@ -33,3 +33,7 @@ function grow(x) {
 ## Work experience
 
 _Nothing yet, work in progress_
+
+## Education
+
+I have been studying at [BRU](http://bru.by/) for 3+ years
