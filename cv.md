@@ -18,3 +18,14 @@ Hello, i'm Yauheni. I'm 20 years old. I study at Belarusian-Russian University f
 - JavaScript ([learn.javascript](https://learn.javascript.ru/) course)
 - GIT version control ([Ilya Kantor's screencast](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb))
 - C# basics (at university)
+
+## Code example
+
+[CodeWars](https://www.codewars.com/kata/57f780909f7e8e3183000078/javascript) 8 kuy Kata.
+Given a non-empty array of integers, return the result of multiplying the values together in order.
+
+```javascript
+function grow(x) {
+  return x.reduce((previous, next) => previous * next);
+}
+```
